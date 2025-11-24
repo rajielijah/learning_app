@@ -1,0 +1,57 @@
+{
+  "@@locale": "en",
+  "appTitle": "Quiz Learning",
+  "loginSubtitle": "Sign in to continue",
+  "emailLabel": "Email",
+  "passwordLabel": "Password",
+  "emailRequired": "Email is required",
+  "emailInvalid": "Enter a valid email",
+  "passwordRequired": "Password is required",
+  "passwordTooShort": "Password is too short",
+  "loginCta": "Login",
+  "invalidCredentials": "Invalid email, please try again",
+  "discoverQuizzes": "Discover Quizzes",
+  "categoriesLabel": "Categories",
+  "offlineBannerMessage": "You are offline. Showing the last cached quiz.",
+  "profileRank": "Rank",
+  "profileScore": "Score",
+  "lastScore": "Last score: {correct}/{total}",
+  "@lastScore": {
+    "placeholders": {
+      "correct": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "quizResultTitle": "Completed: {category}",
+  "@quizResultTitle": {
+    "placeholders": {
+      "category": {}
+    }
+  },
+  "quizResultSummary": "Score: {correct}/{total} \u2022 {percent}%",
+  "@quizResultSummary": {
+    "placeholders": {
+      "correct": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      },
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "backToHome": "Back to Home",
+  "quizTitle": "Quiz",
+  "scoreLabel": "Score",
+  "correctLabel": "Correct",
+  "incorrectLabel": "Incorrect",
+  "quizError": "Unable to start quiz",
+  "topLearners": "Top Learners"
+}
+
