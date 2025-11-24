@@ -44,6 +44,8 @@ flutter run -d chrome   # or ios/android/web device of choice
 ## Future Improvements
 
 - Set up the GitHub Actions SMTP/email step once credentials are available, or integrate with an alternative artifact distribution mechanism.
+- Swap the handwritten ranking dataset for a Mockaroo-generated one with richer fields
+  (country, bio, activity level), giving a more realistic leaderboard simulation.
 
 ## Notes
 
