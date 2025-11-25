@@ -52,5 +52,4 @@ flutter run -d chrome   # or ios/android/web device of choice
 - Valid login: `test@gmail.com / Test@123`.
 - Categories are mapped 1:1 with Open Trivia DB IDs in `core/config/category_config.dart`.
 
-- Localization ready with `flutter_localizations` (`en` default). Add ARB files under `l10n/` and run `flutter gen-l10n` for additional locales.
-
+- Localization ready with `flutter_localizations` (`en` default).
