@@ -38,7 +38,7 @@ flutter run -d chrome   # or ios/android/web device of choice
 
 ## CI/CD
 
-- `.github/workflows/ci.yml` runs on push/PR: `flutter test`, builds Android APK + iOS IPA, uploads artifacts, and emails them via `dawidd6/action-send-mail`.
+- `.github/workflows/ci.yml` runs on push/PR: `flutter test`, builds Android APK + iOS IPA, uploads artifacts.
 
 
 ## Future Improvements
